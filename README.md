@@ -1,3 +1,4 @@
+![Pritesh Pawar (1)](https://user-images.githubusercontent.com/70569236/147940575-9bde0d4c-1655-4940-8c00-f3460acf1c2c.png)
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
