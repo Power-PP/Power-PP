@@ -1,18 +1,13 @@
-![Pritesh Pawar (1)](https://user-images.githubusercontent.com/70569236/147940575-9bde0d4c-1655-4940-8c00-f3460acf1c2c.png)
-### Hi there 👋
+### Hi, I'm Pritesh 👋
 
-<!--
-**Power-PP/Power-PP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Engineer with 3+ years of experience building scalable backend systems and distributed services.
 
-Here are some ideas to get you started:
+🔧 **What I work with:** Java · Spring Boot · gRPC · Protobuf · Microservices · MongoDB · Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **What I'm into:** Backend architecture, system design, and exploring how AI and automation can simplify complex engineering problems
 
+📌 **Featured project:** [ProjectMate](https://github.com/Power-PP/ProjectMate) — a full-stack developer collaboration platform (Spring Boot + MongoDB Atlas + React, BFF architecture)
+
+🏆 Competitive coding & CTFs — always up for a good problem-solving challenge
+
+📫 Reach me: pawar.pritesh53@gmail.com | [LinkedIn](https://linkedin.com/in/pawarpritesh)
